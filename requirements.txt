@@ -1,0 +1,7 @@
+kneed
+matplotlib
+numpy
+pandas
+ruptures
+scikit-learn
+scipy
